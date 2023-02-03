@@ -1,0 +1,23 @@
+# Created by https://www.toptal.com/developers/gitignore/api/terraform
+# Edit at https://www.toptal.com/developers/gitignore?templates=terraform
+
+
+*:Zone.Identifier
+*:Zone.Identifier*
+
+# Crash log files
+crash.log
+crash.*.log
+
+__pycache__
+
+logs/*
+*.log
+
+logs
+
+chkpnt/*
+chkpnt
+
+f1cache
+f1cache/*
